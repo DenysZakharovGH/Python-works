@@ -1,0 +1,10 @@
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:\Users\Δενθρ\source\repos\PythonHomework1\PythonHomework1\PythonHomework1.py", line 7, in <module>
+    raise RuntimeError
+RuntimeError
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:\Users\Δενθρ\source\repos\PythonHomework1\PythonHomework1\PythonHomework1.py", line 7, in <module>
+    raise RuntimeError
+RuntimeError
